@@ -4,6 +4,8 @@
 - 🏎️- Linguagens que estou trabalhando hoje são: Back - JAVA e STS, e Front - Angular + Typescript + ionic.
 - 🌱- Estudando Desenvolvimento App Mobile - React Native, Node.js e Flutter. 
 
+##
+
 <div>
 <a href= "https://github.com/BanderLima">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BanderLima&show_icons=true&theme=tokyonight"/>
@@ -34,4 +36,4 @@
   <a href="https://www.linkedin.com/in/fabio-bandeira-95051920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/BanderLima/BanderLima/blob/output/github-contribution-grid-snake.svg)
+ 
