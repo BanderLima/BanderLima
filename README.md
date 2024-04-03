@@ -1,7 +1,7 @@
 ### Olá, Sou o Fábio Bandeira!! ✌️
 
 - 👨‍💻- Trabalho hoje desenvolvendo aplicações web e sistemas, tanto Back-end quanto Front-end.
-- 🏎️- Linguagens que estou trabalhando hoje são: Back - JAVA e STS, e Front - Angular + Typescript + ionic.
+- 🏎️- Linguagens que estou trabalhando hoje são: Back - JAVA/SPRING BOOT, e Front - Angular + Typescript + ionic.
 - 🌱- Estudando Desenvolvimento App Mobile - React Native, Node.js e Flutter. 
 
 ##
